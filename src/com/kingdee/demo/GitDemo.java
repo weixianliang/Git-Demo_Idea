@@ -16,6 +16,7 @@ public class GitDemo {
         System.out.println("Hello Git main2!");
         System.out.println("Hello Git Hot-Fix2!");
         System.out.println("Hello Git Push GitHub Test!");
+        System.out.println("Hello Git Pull GitHub Test 2021-11-27!");
     }
 
     
