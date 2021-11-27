@@ -15,6 +15,7 @@ public class GitDemo {
         System.out.println("Hello Git Hot-Fix!");
         System.out.println("Hello Git main2!");
         System.out.println("Hello Git Hot-Fix2!");
+        System.out.println("Hello Git Push GitHub Test!");
     }
 
     
